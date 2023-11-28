@@ -2,7 +2,7 @@
 ## 마크다운 문법을 익히고 싶어요!👀
 ## 깃허브를 이제 시작했어요!🌱
 ## 제가 배우고 싶은 것들💞️
-- Os - Linux(특히, Ubuntu[Server])<a href ="https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4">
+- Os - <a href ="https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4">Linux(특히, Ubuntu[Server])
 - IoT
 - Language(Via)
   - Cpp(VS,VSC)
