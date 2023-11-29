@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminari0v0&count_bg=%23F2FFE9&title_bg=%23A6CF98&icon=&icon_color=%232D9596&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminari0v0&count_bg=%23BAC7A7&title_bg=%23889E81&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 안녕하세요👋
 ## 마크다운 문법을 익히고 싶어요!👀
 ## 깃허브를 이제 시작했어요!🌱
