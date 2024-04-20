@@ -6,9 +6,12 @@
 - Os - <a href ="https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4">Linux(특히, Ubuntu[Server])
 - IoT
 - Language
-  - Cpp(VS,VSC)
-  - Python(Pycharm)
-- DB 등...
+  - Cpp
+  - Python
+  - Java(Spring)
+  - dart
+  - js or sveltKit
+- DB(Relation(MySQL), document(mongoDB))
 열심히 배울게요!
 
 ### 맞다! 그 전에 깃허브!📫
