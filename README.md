@@ -8,10 +8,14 @@
 - Language
   - Cpp
   - Python
-  - Java(Spring)
+  - Java(Spring boot)
   - dart
-  - js or sveltKit
-- DB(Relation(MySQL), document(mongoDB))
+  - GoLang
+  - js(nodeJs)
+- DB
+  - MySQL
+  - ORACLE
+  - 
 열심히 배울게요!
 
 ### 맞다! 그 전에 깃허브!📫
