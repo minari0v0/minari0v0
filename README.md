@@ -4,7 +4,6 @@
 ## 깃허브를 이제 시작했어요!🌱
 ## 제가 배우고 싶은 것들🐣
 - Os - <a href ="https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4">Linux(Ubuntu[Server])
-- IoT
 - Language
   - Cpp
   - Python
