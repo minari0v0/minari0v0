@@ -10,11 +10,10 @@
 - **운영체제**: [Linux(Ubuntu Server)](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4)
 - **언어**  
   - C++  
-  - Python  
-  - Java(Spring Boot)  
+  - Spring Boot
   - Dart  
   - Go  
-  - JavaScript(Node.js)  
+  - Node.js
 - **데이터베이스**  
   - MySQL  
   - Oracle  
