@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&section=header&text=minari0v0&fontSize=70&animation=fadeIn&fontColor=ffffff&color=0:4568dc,100:b06ab3)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&section=header&text=minari0v0&fontSize=70&animation=fadeIn&fontColor=ffffff&color=0:4568dc,100:b06ab3&stroke=E0E0E0&strokeWidth=1)
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⭐ 능숙하게 사용하기 위해 공부하는 것들
+## 🔭 능숙하게 사용하기 위해 공부하는 것들
 
 <div align="center">
   
