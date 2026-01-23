@@ -1,8 +1,7 @@
-
-
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=minari0v0&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=7000ff&height=200&section=header&text=minari0v0&fontSize=70&animation=fadeIn)
+
 <div align="center">
 
 <a href="https://github.com/minari0v0">
@@ -34,14 +33,9 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,spring,vue,github,docker" alt="My Skills" />
+  </a>
 
 </div>
 
@@ -55,9 +49,10 @@
 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 
 </div>
+
 </div>
 
 ---
