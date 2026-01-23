@@ -1,3 +1,28 @@
+
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=minari0v0&fontSize=70&animation=fadeIn)
+[![hello!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hello!&size=medium)](https://myhits.vercel.app)
+<div align="center">
+
+<a href="https://github.com/minari0v0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+<a href="https://velog.io/@minari0v0/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
+</a>
+<a href="mailto:cc360653@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://minari0v0.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
+</div>
+
+<br>
+
 [![hello!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hello!&size=medium)](https://myhits.vercel.app)
 
 # 안녕하세요 👋
@@ -8,36 +33,41 @@
 
 ## ⭐ 능숙하게 사용하고 싶은 것
 
-**🖥️ OS**
-- 🐧 Linux (Ubuntu Server)
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
-**💻 Language / Framework**
-- ⚙️ C++
-- ☕ Spring Boot
-  - 🔐 Spring Security
-
-**🗄️ Database**
-- 🐬 MySQL
-- 🏛️ Oracle
+</div>
 
 <br>
 
+---
+
 ## 🌱 관심 있고 배워보고 싶은 것
 
-**💻 Language**
-- 🎯 Go
-- 🎨 Dart
+<div align="center">
 
-**🌐 Backend / Node.js Ecosystem**
-- 🟢 Node.js
-- ⚛️ Next.js
-- 🧱 NestJS
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+
+</div>
 
 <br>
 
 ## 🚀 DevOps & Infrastructure
-- 🐳 Docker
-- ☁️ Nginx
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+
+</div>
 
 ---
 
@@ -60,3 +90,5 @@
 ## 🤝 다짐
 아직 많이 부족하지만 차근차근 배워나가겠습니다!  
 잘 부탁드려요 🙌
+
+</div>
