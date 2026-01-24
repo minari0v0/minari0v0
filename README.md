@@ -21,7 +21,7 @@
 
 <br>
 
-[![hello!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=3B0270&label=hello!&size=medium)](https://myhits.vercel.app)
+[![hello!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hello!&size=medium)](https://myhits.vercel.app)
 
 # 안녕하세요 👋
 개발을 이제 막 시작한 **새싹**입니다 🌱  
