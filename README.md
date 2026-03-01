@@ -47,11 +47,11 @@
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FF5C8D?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+  
 
 </div>
 
