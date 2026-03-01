@@ -34,7 +34,7 @@
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,vue,fastapi,github,docker,react,jira" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=spring,vue,react,fastapi,github,jira,docker" alt="My Skills" />
   </a>
 
 </div>
